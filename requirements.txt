@@ -1,0 +1,43 @@
+# Core Framework & Agent Execution
+langgraph==1.2.15
+langgraph-checkpoint==4.3.0
+langgraph-checkpoint-postgres==3.2.0
+langgraph-checkpoint-sqlite==3.1.2
+langgraph-prebuilt==1.1.0
+langchain==1.4.7
+langchain-core==1.7.1
+langchain-community==0.4.2
+langchain-text-splitters==1.1.3
+
+# LLM & Embedding Integrations
+langchain-openai==1.7.1
+langchain-ollama==1.1.0
+ollama==0.6.3
+openai==3.29.0
+
+# Vector Store & PDF Ingestion
+faiss-cpu==1.15.1
+pypdf==6.21.4
+pillow==12.3.0
+pytesseract==0.3.13
+pypdfium2==5.14.0
+pdf2image==1.17.0
+
+# Database & Persistence
+psycopg==3.3.6
+psycopg-binary==3.3.6
+psycopg-pool==3.3.3
+
+# Tools & APIs
+langchain-tavily==0.2.18
+tavily-python==0.8.5
+requests==2.34.2
+
+# Frontend UI
+streamlit==1.65.0
+
+# Environment & Settings
+python-dotenv==1.2.4
+pydantic==2.14.1
+pydantic-settings==2.16.2
+

@@ -1,0 +1,64 @@
+# ==============================================================================
+# Git Ignore Configuration for Agentic Chatbot using LangGraph
+# ==============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables & local credentials (NEVER commit secrets!)
+.env
+.env.local
+.env.*.local
+*.secret
+*.pem
+*.key
+
+# Local SQLite databases & PostgreSQL dumps
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.sql
+*.dump
+
+# FAISS Vector Database & Uploaded Document Storage
+faiss_db/
+documents/
+
+# Temporary files, logs, and caches
+.tmp/
+.cache/
+*.log
+logs/
+temp/
+tmp/
+
+# OCR binary distributions & model weights (downloaded locally)
+resources/ocr/
+resources/tesseract/
+
+# Testing & coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Operating system & Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
