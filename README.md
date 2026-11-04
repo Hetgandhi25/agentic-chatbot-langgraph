@@ -8,7 +8,6 @@
 [![FAISS](https://img.shields.io/badge/FAISS-Vector%20Store-green.svg)](https://github.com/facebookresearch/faiss)
 [![Ollama](https://img.shields.io/badge/Ollama-Local%20Embeddings-black.svg?logo=ollama&logoColor=white)](https://ollama.ai/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg)](LICENSE)
 
 **An enterprise-ready, stateful conversational AI agent featuring multi-turn conversation persistence, resilient multi-PDF Retrieval-Augmented Generation (RAG) with OCR fallback, Human-in-the-Loop (HITL) approval workflows, and token-by-token streaming.**
 
