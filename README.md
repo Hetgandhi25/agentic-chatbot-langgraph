@@ -381,15 +381,6 @@ python tests/test_full_workflow_live.py
 
 ---
 
-## 👤 Author & Contact
-
-**Het Gandhi**  
-- **GitHub:** [@Hetgandhi25](https://github.com/Hetgandhi25)  
-- **LinkedIn:** [linkedin.com/in/het-gandhi](https://www.linkedin.com/in/het-gandhi)  
-- **Repository:** [agentic-chatbot-langgraph](https://github.com/Hetgandhi25/agentic-chatbot-langgraph)
-
----
-
 ## 📄 License
 
 This project is licensed under the **Apache 2.0 License** - see the [LICENSE](LICENSE) file for details.
